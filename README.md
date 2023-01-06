@@ -2,7 +2,8 @@
 <h3 align="center">Apprenti développer en licence informatique</h3>
 <p> Je me donne à fond dans tout ce que j'entreprends et suis toujours déterminé à arriver à mes fins. Je n'en finirai jamais d'apprendre et de me remettre en question, Never Settle.</p>
 <p> Sinon j'ai beaucoup de créativité, et possède un énorme sang-froid, et des capacités de leader-ship (merci les jeux-vidéos multi faction ahah)</p>
-<p> En ce moment j'aimerai monter mon propre site web !</p>
+<p> Je suis toujours volontaire pour collaborer et participier à des petits projets !</p>
+<p> En ce moment j'aimerai monter mon propre site web ! (Je voulais faire un truc en rapport avec la musique mais c'est plus complexe qu'il n'y parraît)</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venden&label=Profile%20views&color=0e75b6&style=flat" alt="venden" /> </p>
 
 <h3 align="left">Vous pouvez me contacter via discord: <br>Venden#4100</br></h3>
