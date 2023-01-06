@@ -11,7 +11,7 @@
 <a href="https://discord.gg/Venden#4100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Venden#4100" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Vous pouvez me contacter via e-mail : <br>romain.andres@etu.unicaen.fr</br></h3>
+<h3 align="left">Vous pouvez aussi me contacter via e-mail : <br>romain.andres@etu.unicaen.fr</br></h3>
 <p align="left">
 <a href="mailto:romain.andres@etu.unicaen.fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Contact par e-mail" height="30" width="40" /></a>
 </p>
