@@ -4,6 +4,15 @@
 <p> Sinon j'ai beaucoup de créativité, et possède un énorme sang-froid, et des capacités de leader-ship (merci les jeux-vidéos multi faction ahah)</p>
 <p> Je suis toujours volontaire pour collaborer et participier à des petits projets !</p>
 <p> En ce moment j'aimerai monter mon propre site web. (Je veux faire un site en rapport avec la musique mais c'est plus complexe qu'il n'y parraît)</p>
+<h2> Mon niveau d'études actuel: Licence informatique (Bac+3)</h2>
+<h3> Mes lectures en rapport avec l'informatique :</h3>
+<ul>
+  <li> Don't let me think (Revisited) - Steve Krug</li>
+  <li> Superintelligence - Nick Bostrom</li>
+  <li> Cygne noir - Nassim Taleb</li>
+  <li> Bull Shit Jobs - David Graeber</li>
+ </ul>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venden&label=Profile%20views&color=0e75b6&style=flat" alt="venden" /> </p>
 
 <h3 align="left">Vous pouvez me contacter via discord: <br>Venden#4100</br></h3>
@@ -25,11 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venden&" alt="venden" /></p>
 
-<h3> Mes lectures en rapport avec l'informatique :</h3>
-<ul>
-  <li> Don't let me think (Revisited) - Steve Krug</li>
-  <li> Superintelligence - Nick Bostrom</li>
-  <li> Cygne noir - Nassim Taleb</li>
-  <li> Bull Shit Jobs - David Graeber</li>
- </ul>
+
 
