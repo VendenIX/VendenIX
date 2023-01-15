@@ -1,7 +1,6 @@
 <h1 align="center">Salut, moi c'est Venden</h1>
 <h3 align="center">Apprenti développer en licence informatique</h3>
-<p> Je me donne à fond dans tout ce que j'entreprends et suis toujours déterminé à arriver à mes fins. Je n'en finirai jamais d'apprendre et de me remettre en question, Never Settle.</p>
-<p> Sinon j'ai beaucoup de créativité, et possède un énorme sang-froid, et des capacités de leader-ship (merci les jeux-vidéos multi faction ahah)</p>
+<p> Je n'en finirai jamais d'apprendre et de me remettre en question, Never Settle.</p>
 <p> Je suis toujours volontaire pour collaborer et participier à des petits projets !</p>
 <p> En ce moment j'aimerai monter mon propre site web. (Je veux faire un site en rapport avec la musique mais c'est plus complexe qu'il n'y parraît)</p>
 <h2> Mon niveau d'études actuel: Licence informatique (Bac+3)</h2>
