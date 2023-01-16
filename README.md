@@ -2,7 +2,7 @@
 <h3 align="center">Apprenti développer en licence informatique</h3>
 <p> Je n'en finirai jamais d'apprendre et de me remettre en question, Never Settle.</p>
 <p> Je suis toujours volontaire pour collaborer et participier à des petits projets !</p>
-<p> En ce moment j'aimerai monter mon propre site web. (Je veux faire un site en rapport avec la musique mais c'est plus complexe qu'il n'y parraît)</p>
+<p> En ce moment j'aimerai monter mon propre site web. (Je veux faire un site en rapport avec la musique)</p>
 <h2> Mon niveau d'études actuel: Licence informatique (Bac+3)</h2>
 <h3> Mes lectures en rapport avec l'informatique :</h3>
 <ul>
