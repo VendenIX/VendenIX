@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est Venden</h1>
+<h1 align="center">Salut, moi c'est Romain (Alias Venden)</h1>
 <h3 align="center">Apprenti développer en licence informatique</h3>
 <p> Je n'en finirai jamais d'apprendre et de me remettre en question, Never Settle.</p>
 <p> Je suis toujours volontaire pour collaborer et participier à des petits projets !</p>
