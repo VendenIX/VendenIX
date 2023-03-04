@@ -2,7 +2,6 @@
 <h3 align="center">Etudiant en 3ème année de licence informatique à l'université de Caen</h3>
 <p> Je n'en finirai jamais d'apprendre et de me remettre en question, Never Settle.</p>
 <p> Je suis toujours volontaire pour collaborer et participier à des petits projets !</p>
-<p> En ce moment, je suis intéréssé par le développement d'application mobile android.</p>
 <h2> Mon niveau d'études actuel: Licence 3 informatique</h2>
 <h3> Mes lectures en rapport avec l'informatique :</h3>
 <ul>
