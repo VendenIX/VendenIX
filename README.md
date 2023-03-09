@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est Romain (Alias Venden)</h1>
+<h1 align="center">Une brêve présentation :</h1>
 <h3 align="center">Etudiant en 3ème année de licence informatique à l'université de Caen</h3>
 <p> Je n'en finirai jamais d'apprendre et de me remettre en question, Never Settle.</p>
 <p> Je suis toujours volontaire pour collaborer et participier à des petits projets !</p>
