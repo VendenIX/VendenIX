@@ -2,6 +2,7 @@
 <h3 align="center">Etudiant en 3ème année de licence informatique à l'université de Caen</h3>
 <p> Je n'en finirai jamais d'apprendre et de me remettre en question, Never Settle.</p>
 <p> Je suis toujours volontaire pour collaborer et participier à des petits projets !</p>
+<p> Je suis le genre tenace et autonome, je me forme tout seul à l'aide de tutos trouvés sur le net.</p>
 <p> J'aime partager la musique que j'écoute, chaque mois j'upload une playlist des sons que j'écoute sur <a href="https://www.youtube.com/channel/UCvnR3rqm6nwvW2c0pp2ws1Q">ma chaîne YouTube</a>. </p>
 <p> Je cherche à contribuer à des projets Open-Source et m'intéresse à l'IA et aux applications mobiles/web.</p>
 <p> Participe au <a href="https://www.unicaen.fr/evenement/hackathon-cassez-les-codes/">Hackathon</a> 2023 à Caen.</p>
