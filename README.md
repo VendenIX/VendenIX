@@ -6,7 +6,7 @@
 <p> J'aime partager la musique que j'écoute, chaque mois j'upload une playlist des sons que j'écoute sur <a href="https://www.youtube.com/channel/UCvnR3rqm6nwvW2c0pp2ws1Q">ma chaîne YouTube</a>. </p>
 <p> Je cherche à contribuer à des projets Open-Source et m'intéresse à l'IA et aux applications mobiles/web.</p>
 <p> Participe au <a href="https://www.unicaen.fr/evenement/hackathon-cassez-les-codes/">Hackathon</a> 2023 à Caen.</p>
-<h2> Mon niveau d'études actuel: Licence 3 informatique</h2>
+<h2> Mon niveau d'études actuel: Bac+3 Licence Informatique</h2>
 <h3> Mes lectures en rapport avec l'informatique :</h3>
 <ul>
   <li> Don't let me think (Revisited) - Steve Krug</li>
