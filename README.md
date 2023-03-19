@@ -14,7 +14,8 @@
   <li> Cygne noir - Nassim Taleb</li>
   <li> Bull Shit Jobs - David Graeber</li>
  </ul>
- 
+ <p> Je travail sur Ubuntu, bash ZSH couplé au terminal Kitty.</p>
+ <p> Je suis également opérationnel à travailler à distance en télé-travail.</p>
 <h3 align="left">Mon discord: <br>Venden#4100</br></h3>
 <p align="left">
 <h3 align="left">Mon adresse e-mail : <br>romain.andres@etu.unicaen.fr</br></h3>
