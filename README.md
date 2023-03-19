@@ -12,8 +12,6 @@
   <li> Bull Shit Jobs - David Graeber</li>
  </ul>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venden&label=Profile%20views&color=0e75b6&style=flat" alt="venden" /> </p>
-
 <h3 align="left">Mon discord: <br>Venden#4100</br></h3>
 <p align="left">
 <h3 align="left">Mon adresse e-mail : <br>romain.andres@etu.unicaen.fr</br></h3>
