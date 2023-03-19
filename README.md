@@ -4,7 +4,7 @@
 <p> Je suis toujours volontaire pour collaborer et participier à des petits projets !</p>
 <p> J'aime partager la musique que j'écoute, chaque mois j'upload une playlist des sons que j'écoute sur <a href="https://www.youtube.com/channel/UCvnR3rqm6nwvW2c0pp2ws1Q">ma chaîne YouTube</a>. </p>
 <p> Je cherche à contribuer à des projets Open-Source et m'intéresse à l'IA et aux applications mobiles/web.</p>
-<p> Participe au <a href="https://www.unicaen.fr/evenement/hackathon-cassez-les-codes/">Hackathon</a> 2023 à Caen</p>
+<p> Participe au <a href="https://www.unicaen.fr/evenement/hackathon-cassez-les-codes/">Hackathon</a> 2023 à Caen.</p>
 <h2> Mon niveau d'études actuel: Licence 3 informatique</h2>
 <h3> Mes lectures en rapport avec l'informatique :</h3>
 <ul>
