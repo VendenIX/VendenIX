@@ -2,6 +2,7 @@
 <h3 align="center">Etudiant en 3ème année de licence informatique à l'université de Caen</h3>
 <p> Je n'en finirai jamais d'apprendre et de me remettre en question, Never Settle.</p>
 <p> Je suis toujours volontaire pour collaborer et participier à des petits projets !</p>
+<p> J'aime partager la musique que j'écoute, chaque mois j'upload une playliste des sons que j'écoute sur <a href="https://www.youtube.com/channel/UCvnR3rqm6nwvW2c0pp2ws1Q">Ma chaîne YouTube</a> </p>
 <h2> Mon niveau d'études actuel: Licence 3 informatique</h2>
 <h3> Mes lectures en rapport avec l'informatique :</h3>
 <ul>
