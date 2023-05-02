@@ -10,6 +10,7 @@
 <h3> Mes lectures en rapport avec l'informatique :</h3>
 <ul>
   <li> Don't let me think (Revisited) - Steve Krug</li>
+  <li> Introduction à l'algorithmique - Thomas Cormen, Charles Leiserson, Ronald Rivest, Clifford Stein</li>
   <li> Superintelligence - Nick Bostrom</li>
   <li> Cygne noir - Nassim Taleb</li>
   <li> Bull Shit Jobs - David Graeber</li>
