@@ -7,6 +7,7 @@
 <p> Je cherche à contribuer à des projets Open-Source et m'intéresse à l'IA et aux applications mobiles/web.</p>
 <p> Participe au <a href="https://www.unicaen.fr/evenement/hackathon-cassez-les-codes/">Hackathon</a> 2023 à Caen.</p>
 <h2> Mon niveau d'études actuel: Bac+3 Licence Informatique</h2>
+<h2> Je suis actuellement en Master 1 Intelligence artificielle, analyse des données accès santé</h2>
 <h3> Mes lectures en rapport avec l'informatique :</h3>
 <ul>
   <li> Don't let me think (Revisited) - Steve Krug</li>
