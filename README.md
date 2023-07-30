@@ -17,9 +17,7 @@
  </ul>
  <p> I work on Ubuntu, with ZSH bash coupled with the Kitty terminal.</p>
  <p> I am also ready to work remotely.</p>
-<h3 align="left">My discord: <br>Venden#4100</br></h3>
 <p align="left">
-<h3 align="left">My e-mail address: <br>romain.andres@etu.unicaen.fr</br></h3>
 <p align="left">
 <h3 align="left">Programming languages and technologies</h3>
 <p align="left"> 
@@ -41,3 +39,15 @@
 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <p>I also know a lot of other things, I have networking skills, I can do video editing, use virtual machines, and so on...</p>
+<h2> Contact </h2>
+<p align="left">
+  <a href="mailto:romain.andres@etu.unicaen.fr" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/romain-andres-6b551b203/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
+
+
