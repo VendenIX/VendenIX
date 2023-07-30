@@ -1,29 +1,27 @@
-<h1 align="center">Une brêve présentation :</h1>
-<h3 align="center">Etudiant en Master 1 Intelligence artificielle, analyse des données, accès santé</h3>
-<p> Je n'en finirai jamais d'apprendre et de me remettre en question, Never Settle.</p>
-<p> Je suis toujours volontaire pour collaborer et participier à des petits projets !</p>
-<p> Je suis du genre tenace et autonome, je me forme tout seul à l'aide de tutos trouvés sur le net.</p>
-<p> J'aime partager la musique que j'écoute, chaque mois j'upload une playlist des sons que j'écoute sur <a href="https://www.youtube.com/channel/UCvnR3rqm6nwvW2c0pp2ws1Q">ma chaîne YouTube</a>. </p>
-<p> Je cherche à contribuer à des projets Open-Source et m'intéresse à l'IA et aux applications mobiles/web.</p>
-<p> Participe au <a href="https://www.unicaen.fr/evenement/hackathon-cassez-les-codes/">Hackathon</a> 2023 à Caen.</p>
-<h2> Mon niveau d'études actuel: Bac+3 Licence Informatique</h2>
-<h3> Mes lectures en rapport avec l'informatique :</h3>
+<h1 align="center">A brief introduction:</h1>
+<h3 align="center">Master's 1 Student in Artificial Intelligence, Data Analysis, Health Access</h3>
+<p> I will never stop learning and questioning myself, Never Settle.</p>
+<p> I am always willing to collaborate and participate in small projects!</p>
+<p> I'm tenacious and autonomous, I train myself using tutorials found on the internet.</p>
+<p> I love sharing the music I listen to, every month I upload a playlist of the songs I listen to on <a href="https://www.youtube.com/channel/UCvnR3rqm6nwvW2c0pp2ws1Q">my YouTube channel</a>. </p>
+<p> I'm looking to contribute to Open-Source projects and am interested in AI and mobile/web applications.</p>
+<p> Participating in the <a href="https://www.unicaen.fr/evenement/hackathon-cassez-les-codes/">Hackathon</a> 2023 in Caen.</p>
+<h2> My current level of study: Bachelor's degree in Computer Science</h2>
+<h3> My readings related to computer science:</h3>
 <ul>
-  <li> Don't let me think (Revisited) - Steve Krug</li>
-  <li> Introduction à l'algorithmique - Thomas Cormen, Charles Leiserson, Ronald Rivest, Clifford Stein</li>
+  <li> Don't Make Me Think (Revisited) - Steve Krug</li>
+  <li> Introduction to Algorithms - Thomas Cormen, Charles Leiserson, Ronald Rivest, Clifford Stein</li>
   <li> Superintelligence - Nick Bostrom</li>
-  <li> Cygne noir - Nassim Taleb</li>
-  <li> Bull Shit Jobs - David Graeber</li>
+  <li> Black Swan - Nassim Taleb</li>
+  <li> Bullshit Jobs - David Graeber</li>
  </ul>
- <p> Je travail sur Ubuntu, bash ZSH couplé au terminal Kitty.</p>
- <p> Je suis également opérationnel à travailler à distance en télé-travail.</p>
-<h3 align="left">Mon discord: <br>Venden#4100</br></h3>
+ <p> I work on Ubuntu, with ZSH bash coupled with the Kitty terminal.</p>
+ <p> I am also ready to work remotely.</p>
+<h3 align="left">My discord: <br>Venden#4100</br></h3>
 <p align="left">
-<h3 align="left">Mon adresse e-mail : <br>romain.andres@etu.unicaen.fr</br></h3>
+<h3 align="left">My e-mail address: <br>romain.andres@etu.unicaen.fr</br></h3>
 <p align="left">
-
-
-<h3 align="left">Langages de programmation et technologies</h3>
+<h3 align="left">Programming languages and technologies</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -34,18 +32,12 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p>Je sais également plein d'autres choses, j'ai des notions de réseaux, je sais faire du montage vidéo, utiliser des machines virtuelles, etc ...</p>
-
-
-
-
-
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>I also know a lot of other things, I have networking skills, I can do video editing, use virtual machines, and so on...</p>
