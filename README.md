@@ -17,7 +17,7 @@
   <li> Black Swan - Nassim Taleb</li>
   <li> Bullshit Jobs - David Graeber</li>
  </ul>
- <p> I work on Ubuntu, with ZSH bash coupled with the Kitty terminal.</p>
+ <p> I work on MacOS with Warp terminal</p>
  <p> I am also ready to work remotely.</p>
 <p align="left">
 <p align="left">
