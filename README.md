@@ -1,5 +1,5 @@
 <h1 align="center">A brief introduction:</h1>
-<h3 align="center">Master's 1 Student in Artificial Intelligence, Data Analysis, Health Access</h3>
+<h3 align="center">Master's 2 Student in Artificial Intelligence, Data Analysis, Health Access</h3>
 <strong><a href="https://vendenix.github.io/portfolio/" > My portfolio</a></strong>
 
 <strong><a href="https://github.com/VendenIX/curriculum_vitae/blob/main/Curriculum_vitae.pdf" > My curriculum vitae</a></strong>
