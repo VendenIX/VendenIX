@@ -12,6 +12,8 @@
 <h3> My readings related to computer science:</h3>
 <ul>
   <li> Don't Make Me Think (Revisited) - Steve Krug</li>
+  <li> Dans le cerveau du gamer - Celia Hodent </li>
+  <li> Behave (The Biology of Humans at Our Best and Worst) - Robert Sapolsky </li>
   <li> Introduction to Algorithms - Thomas Cormen, Charles Leiserson, Ronald Rivest, Clifford Stein</li>
   <li> Superintelligence - Nick Bostrom</li>
   <li> Black Swan - Nassim Taleb</li>
