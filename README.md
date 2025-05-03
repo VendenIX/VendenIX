@@ -6,7 +6,7 @@
 <p> I'm tenacious and autonomous, I train myself using tutorials found on the internet.</p>
 <p> I love sharing the music I listen to, every month I upload a playlist of the songs I listen to on <a href="https://www.youtube.com/channel/UCvnR3rqm6nwvW2c0pp2ws1Q">my YouTube channel</a>. </p>
 <p> I'm looking to contribute to Open-Source projects and am interested in AI and mobile/web applications.</p>
-<h2> My current level of study: Bachelor's degree in Computer Science</h2>
+<h2> My current level of study: Master's degree in Computer Science</h2>
 <h3> My readings related to computer science:</h3>
 <ul>
   <li> Don't Make Me Think (Revisited) - Steve Krug</li>
