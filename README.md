@@ -1,5 +1,8 @@
 <h1 align="center">A brief introduction:</h1>
 <h3 align="center">Master's 2 Student in Artificial Intelligence, Data Analysis, Health Access</h3>
+<p align="center">
+  <img src="images_readme/output_styled.gif" alt="Animation Preview">
+</p>
 <strong><a href="https://vendenix.github.io/portfolio/" > My portfolio & curriculum vitae</a></strong>
 <p> I will never stop learning and questioning myself, Never Settle.</p>
 <p> I am always willing to collaborate and participate in small projects!</p>
