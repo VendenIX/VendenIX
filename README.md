@@ -1,5 +1,5 @@
 <h1 align="center">A brief introduction:</h1>
-<h3 align="center">Master's 2 Student in Artificial Intelligence, Data Analysis, Health Access</h3>
+<h3 align="center">Engineer Searcher (Junior) in Artificial Intelligence, Data Analysis, Health Access</h3>
 <p align="center">
   <img src="images_readme/output_styled.gif" alt="Animation Preview">
 </p>
