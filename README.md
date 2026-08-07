@@ -79,10 +79,10 @@ Full abstracts and BibTeX on the [publications page](https://vendenix.github.io/
 
 ## 🛠️ Tech stack
 
-**Deep learning & XAI:** PyTorch · Grad-CAM/LRP/LIME · UNet/UNETR/ResNet · Fed-BioMed
-**Medical imaging:** DICOM · NIfTI · OHIF Viewer
-**Data & backend:** Python (NumPy/SciPy/pandas) · Flask · GraphQL · PostgreSQL · MongoDB
-**Tools:** Docker · Kubernetes · Git · Linux
+- **Deep learning & XAI:** PyTorch · Grad-CAM/LRP/LIME · UNet/UNETR/ResNet · Fed-BioMed
+- **Medical imaging:** DICOM · NIfTI · OHIF Viewer
+- **Data & backend:** Python (NumPy/SciPy/pandas) · Flask · GraphQL · PostgreSQL · MongoDB
+- **Tools:** Docker · Kubernetes · Git · Linux
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a>
