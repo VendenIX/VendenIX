@@ -10,7 +10,7 @@
 
 I build deep learning systems for oncology that clinicians can actually trust — from segmentation models deployed in radiotherapy workflows to explainability pipelines that catch a model relying on the wrong signal before it reaches a clinic. Co-first author on a *NeuroImage* paper, first author on a manuscript currently under review. Currently looking for my next step: a **CIFRE PhD** or a **research/AI engineer role**.
 
-## 🔬 Featured work
+## Featured work
 
 <table>
 <tr>
@@ -52,7 +52,7 @@ A six-model computer vision pipeline (YOLO, EasyOCR, DeepLSD, graph reconstructi
 </table>
 
 <details>
-<summary><strong>🗂️ Earlier projects</strong> (coursework & side projects)</summary>
+<summary><strong> Earlier projects</strong> (coursework & side projects)</summary>
 <br>
 
 | Project | Description |
@@ -64,7 +64,7 @@ A six-model computer vision pipeline (YOLO, EasyOCR, DeepLSD, graph reconstructi
 
 </details>
 
-## 📄 Publications
+## Publications
 
 | Title | Venue | Role |
 |---|---|---|
@@ -73,7 +73,7 @@ A six-model computer vision pipeline (YOLO, EasyOCR, DeepLSD, graph reconstructi
 
 Full abstracts and BibTeX on the [publications page](https://vendenix.github.io/portfolio/publications/).
 
-## 🛠️ Tech stack
+## Tech stack
 
 - **Deep learning & XAI:** PyTorch · Grad-CAM/LRP/LIME · UNet/UNETR/ResNet · Fed-BioMed
 - **Medical imaging:** DICOM · NIfTI · OHIF Viewer
@@ -95,11 +95,10 @@ Full abstracts and BibTeX on the [publications page](https://vendenix.github.io/
 </p>
 
 ## Contact
-
+<p>
+  contact.randres@gmail.com
+</p>
 <p align="left">
-  <a href="mailto:contact.randres@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="36" height="36"/>
-  </a>
   <a href="https://www.linkedin.com/in/romain-andres-6b551b203/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36"/>
   </a>
