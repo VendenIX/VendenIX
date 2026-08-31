@@ -2,10 +2,6 @@
 <h3 align="center">AI Engineer — Explainable AI & Deep Learning for Oncology and Personalized Medicine</h3>
 
 <p align="center">
-  <img src="images_readme/output_styled.gif" alt="Animation Preview">
-</p>
-
-<p align="center">
   <a href="https://vendenix.github.io/portfolio/"><strong>Portfolio & CV</strong></a> ·
   <a href="https://vendenix.github.io/portfolio/publications/">Publications</a> ·
   <a href="https://www.linkedin.com/in/romain-andres-6b551b203/">LinkedIn</a> ·
