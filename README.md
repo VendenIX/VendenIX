@@ -65,6 +65,7 @@ A six-model computer vision pipeline (YOLO, EasyOCR, DeepLSD, graph reconstructi
 </details>
 
 ## Publications
+Most of this work was carried out at Centre François Baclesse (Caen) under the supervision of Dr. Aurélien Corroyer-Dulmont (PhD, HDR).
 
 | Title | Venue | My contribution |
 |---|---|---|
