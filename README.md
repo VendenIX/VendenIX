@@ -66,10 +66,10 @@ A six-model computer vision pipeline (YOLO, EasyOCR, DeepLSD, graph reconstructi
 
 ## Publications
 
-| Title | Venue | Role |
+| Title | Venue | My contribution |
 |---|---|---|
-| [Development and routine implementation of a deep learning algorithm for automatic brain metastases segmentation on MRI for RANO-BM criteria follow-up](https://doi.org/10.1016/j.neuroimage.2025.121002) | NeuroImage, Vol. 306 (2025) | Co-first author |
-| Explainability and Clinical Trust of Deep Learning in Glioblastoma Treatment Efficacy Prediction | Manuscript under review (2025) | First author |
+| [Development and routine implementation of a deep learning algorithm for automatic brain metastases segmentation on MRI for RANO-BM criteria follow-up](https://doi.org/10.1016/j.neuroimage.2025.121002) | NeuroImage, Vol. 306 (2025) | **Co-first author**<br>Optimized model inference, built the clinical integration (OHIF Viewer, Flask API, deployment), and contributed to method design, data curation, results analysis, and manuscript writing and review. |
+| Explainability and Clinical Trust of Deep Learning in Glioblastoma Treatment Efficacy Prediction | Manuscript under review (2025) | **First author**<br>Led the study end to end: designed and implemented the XAI pipeline, performed image segmentation with computer vision methods, ran the analysis, produced the figures, and drafted and revised the manuscript. |
 
 Full abstracts and BibTeX on the [publications page](https://vendenix.github.io/portfolio/publications/).
 
