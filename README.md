@@ -29,7 +29,7 @@ A multi-layered XAI pipeline (Grad-CAM, LRP, LIME, linear probing, causal activa
 <td width="220"><img src="images_readme/metia-neuroimage.gif" width="200"></td>
 <td>
 
-**MetIA — Deep Learning Interface for Brain Metastases Segmentation** — *co-first author, published in [NeuroImage](https://doi.org/10.1016/j.neuroimage.2025.121002), Vol. 306 (2026)*
+**MetIA — Deep Learning Interface for Brain Metastases Segmentation** — *co-first author, published in [NeuroImage](https://doi.org/10.1016/j.neuroimage.2025.121002), Vol. 306 (2025)*
 
 UNETR-based segmentation model deployed into a clinical OHIF Viewer interface at Centre François Baclesse, from Flask API to ML Ops on the center's infrastructure.
 
