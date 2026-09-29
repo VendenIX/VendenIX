@@ -17,7 +17,7 @@ I build deep learning systems for oncology that clinicians can actually trust �
 <td width="220"><img src="images_readme/xai-glioblastoma.gif" width="200"></td>
 <td>
 
-**Explainability & Clinical Trust of Deep Learning in Glioblastoma Treatment Response** — *first-author manuscript, under review*
+**Explainability & Clinical Trust of Deep Learning in Glioblastoma Treatment Response: A Comprehensive Framework**
 
 A multi-layered XAI pipeline (Grad-CAM, LRP, LIME, linear probing, causal activation patching) auditing a ResNet-51q model — and catching it relying on a proxy for surgical resection status instead of real tumoral features.
 
